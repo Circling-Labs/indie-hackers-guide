@@ -1,4 +1,4 @@
-# 👋 Welcome to A Product
+# 👋 Welcome to Indie Hackers
 
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
@@ -24,22 +24,22 @@ Here are a couple of example overviews from products with really great docs:
 [what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/our-team.md" %}
+[our-team.md](overview/our-team.md)
 {% endcontent-ref %}
 
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
+{% content-ref url="tools/getting-set-up/" %}
+[getting-set-up](tools/getting-set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="tools/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](tools/getting-set-up/setting-permissions.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="tools/getting-set-up/inviting-members.md" %}
+[inviting-members.md](tools/getting-set-up/inviting-members.md)
 {% endcontent-ref %}
