@@ -1,9 +1,5 @@
 # 👋 Welcome to Indie Hackers
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
 ## Overview
 
 Here are a couple of example overviews from products with really great docs:
@@ -17,29 +13,5 @@ Here are a couple of example overviews from products with really great docs:
 > The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
-
-## Quick links
-
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
-
-{% content-ref url="overview/our-team.md" %}
-[our-team.md](overview/our-team.md)
-{% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="tools/getting-set-up/" %}
-[getting-set-up](tools/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="tools/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](tools/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="tools/getting-set-up/inviting-members.md" %}
-[inviting-members.md](tools/getting-set-up/inviting-members.md)
-{% endcontent-ref %}
+>
+>
